@@ -30,7 +30,10 @@ I can add you as collaborator
 3. Install the dependencies using requirements.txt file
 
 ### Testing
-To test the functionality, run the test script test.py
+To test the functionality, run the test script 
+ ```sh
+    python test/test.py
+```
 The test script verifies the directory creation, log processing, and generation of the top 50 songs.
 
 ### Usage
